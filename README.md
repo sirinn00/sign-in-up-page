@@ -1,6 +1,5 @@
 # Modern Login Page
-
-This project features a modern login and signup form built using only HTML and CSS.
+a modern login and signup form.
 
 ## 📸 Screenshot
 
