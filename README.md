@@ -1,16 +1,13 @@
-# Modern Login Sayfası
+# Modern Login Page
 
-Bu projede HTML ve CSS kullanarak modern bir giriş / kayıt formu tasarlandı.
+This project features a modern login and signup form built using only HTML and CSS.
 
-## 📸 Ekran Görüntüsü
+## 📸 Screenshot
 
-![Login Sayfası](images/signin-form.png)
+![Login Page](images/signin-form.png)
 
-## 🔧 Kullanılan Teknolojiler
+## 🔧 Technologies Used
 
-- HTML5
+- HTML5  
 - CSS3
-
-## ✨ Canlı Demo
-
-[Buraya GitHub Pages linki gelecekse ekleyebilirsin]
+- JS
