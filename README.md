@@ -4,7 +4,7 @@ This project features a modern login and signup form built using only HTML and C
 
 ## 📸 Screenshot
 
-![Login Page](images/signin-form.png)
+![Login Page](/login-page.PNG)
 
 ## 🔧 Technologies Used
 
